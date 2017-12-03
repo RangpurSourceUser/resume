@@ -1,0 +1,245 @@
+* {
+	margin: 0;
+	padding: 0;
+	outline: 0;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+ 
+h1 {
+	font-size: 40px;
+}
+h2 {
+	font-size: 30px;
+}
+h3 {
+	font-size: 22px;
+}
+p {
+	font-size: 17px;
+}
+
+span {
+	font-size: 25px;
+	
+}
+
+.padding-l {
+	padding-left: 0px;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.header {
+	width: 100%;
+	height: 45px;
+	background: #0485bf;
+}
+
+#web-debeloper {
+    background: #c0c1c3;
+    padding: 80px 0;
+}
+
+.container {
+	-webkit-box-shadow: 13px 14px 29px 5px rgba(0,0,0,0.75);
+	-moz-box-shadow: 13px 14px 29px 5px rgba(0,0,0,0.75);
+	box-shadow: 13px 14px 29px 5px rgba(0,0,0,0.75);
+}
+.all-item {}
+
+.web-debeloper-content {
+	background: #404757;
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+
+#web-debeloper-left {
+	
+}
+.jhondhoe-profil {
+	background: #fedc7b;
+	text-align: center;
+	padding: 20px 0px 15px 0px;
+}
+
+.jhondhoe-profil img {
+	width: 200px;
+	height: 200px;
+	border: 10px solid #0485bf;
+	border-radius: 100%;
+	
+}
+.jhondhoe-profil h2 {
+	font-weight: 700;
+}
+
+.web-text h2 {
+    text-align: center;
+    background: #fedc7b;
+    font-weight: 500;
+    margin: 5px 0 0 0;
+    padding: 20px 0;
+}
+
+.all-profil-contact {
+	background: #0485bf;
+	padding: 0px 30px;
+}
+
+.profil {
+    padding: 35px 0 55px 0;
+}
+
+.profil-contact {
+    padding: 0px 0 20px 0px;
+}
+.profil-contact i {
+	font-size: 45px;
+    color: #fff;
+    padding-right: 13px;
+}
+.profil-contact span { 
+    color: #fff;
+    text-transform: uppercase;
+}
+ 
+.profil p {
+	font-size: 17px;
+	color: #fff;
+}
+
+.contact {
+    padding-bottom: 60px;
+}
+
+.contact-title {
+	padding: 0px 0px 30px 0px;
+} 
+.contact-title i {
+	font-size: 45px;
+    color: #fff;
+    padding-right: 13px;
+}
+.contact-title span { 
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.contact-address {
+	color: #fff;
+} 
+.contact-address i {
+    font-size: 25px;
+    padding-right: 16px;
+	line-height: 45px;
+}
+.contact-address span {
+    font-size: 17px;
+    line-height: 45px;
+} 
+
+
+
+#deb-debeloper-right {}
+
+.padding-all {
+    padding: 0 60px 0 45px;
+}
+
+.right-title {}
+
+.details-title {
+    background: #0485bf;
+    overflow: hidden;
+    border-radius: 14px;
+    padding: 17px 34px;
+    margin-top: 20px;
+	color: #fff;
+}
+ 
+.details-title i {
+    font-size: 30px; 
+    width: 55px;
+    height: 55px;
+    border: 2px solid #fff;
+    border-radius: 100%;
+    text-align: center;
+    padding: 11px 0;
+}
+.details-title h2 {
+    margin: 0;
+    text-transform: uppercase;
+    line-height: 50px;
+    text-align: center;
+    margin-top: -52px;
+}
+
+.details-content {
+    padding: 0 40px;
+	color: #fff;
+}
+
+.details {
+    padding-top: 20px;
+}
+
+.details-icon i {
+    font-size: 30px;
+    padding: 0 12px;
+}
+
+.details-text {}
+.details-text h5 {
+	margin: 0;
+}
+.details-text h3 {
+    margin: 0;
+    padding: 15px 0px;
+    font-weight: 600;
+}
+.details-text h4 {
+    margin: 0;
+    padding-bottom: 5px;
+    font-weight: 600;
+}
+.details-text p {
+    margin: 0;
+    font-weight: 300;
+}
+ 
+.mywork {
+    padding-bottom: 30px;
+    overflow: hidden;
+}
+.work-text {
+    text-align: center;
+    background: #fff;
+    color: #000;
+    margin: 28px 0 0 0;
+    padding: 10px 0;
+    border-bottom: 7px solid #fedc7b;
+}
+.work-text i {
+    font-size: 40px;
+}
+.work-text h4 {
+    margin: 0;
+    padding-top: 11px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+
+.footer {
+	background: #fedc7b;
+	width: 100%;
+	height: 45px;
+}
